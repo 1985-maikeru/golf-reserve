@@ -1,0 +1,20 @@
+[
+    {
+        "username": "西田優馬",
+        "password": "phantom1024",
+        "mail": "yuuma_nishida@medical-design.com",
+        "authority": "admin"
+    },
+    {
+        "username": "鈴木一郎",
+        "password": "ichiro51",
+        "mail": "ichiro_suzuki@medical-design.com",
+        "authority": "normal"
+    },
+    {
+        "username": "松井秀樹",
+        "password": "hideki55",
+        "mail": "hideki_matsui@medical-design.com",
+        "authority": "normal"
+    }
+]
